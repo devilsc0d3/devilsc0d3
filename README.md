@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fauré Léo</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-- 🔭 I’m currently working on **CockTel**
 - 🌱 I’m currently learning **Kotlin & Lua**
 
 <h3 align="left">Connect with me:</h3>
