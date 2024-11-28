@@ -1,23 +1,59 @@
-<h1 align="center">Hi 👋, I'm Fauré Léo</h1>
-<h3 align="center">A passionate developer from France</h3>
+# 👋 Bienvenue sur le profil de [devilsc0d3](https://github.com/devilsc0d3)
 
-- 🔭 I am currently working in the company SISTEC on **enfance360**
+## 🌟 À propos de moi
 
-- 🌱 I’m currently learning **webdev & react**
+Salut, moi c'est Léo, alias *devilsc0d3*. Je suis un passionné de **développement logiciel** et de **technologies modernes**. Avec un esprit curieux et une envie constante d'apprendre, je construis des solutions qui combinent performance et créativité.
 
-- 👨‍💻 All of my projects are available at my github or my portfolio / blog [https://devilsc0d3.github.io/stage_2024/index.html](https://devilsc0d3.github.io/stage_2024/index.html)
+🎯 **Mon objectif** : Explorer les limites du code et repousser les frontières de l'innovation.  
 
-- 📫 How to reach me **faureleo123@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/léo-fauré-1477b7270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/léo-fauré-1477b7270" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/leo.faure/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/leo.faure/" height="30" width="40" /></a>
-</p>
+## 🛠️ Compétences & Technologies
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-  <a href="https://www.maxon.net/en/cinema-4d"> <img src="https://i.pinimg.com/originals/73/69/e1/7369e1f22014e5fd0a401320b1eb5e6c.png" alt="cinema 4D" width="40" height="40"/> </a> 
+### Langages principaux :
+- **Back-end** : ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+- **Front-end** : ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
 
-</p>
+### Outils & Frameworks :
+- **Web** : ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
+- **DevOps** : ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+- **Gestion de projet** : ![Trello](https://img.shields.io/badge/-Trello-0079BF?logo=trello&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white)
+- **Méthodologies** : Méthode Agile (Scrum/Kanban), Gestion par itérations, Sprint Planning
+- **Autres** : ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+
+---
+
+## 🌐 Projets Open-Source
+
+💻 **[Entreprise Bouche](https://github.com/devilsc0d3/website_bouche)**  
+Création d'un site vitrine responsive et moderne pour une entreprise de chauffage/plomberie.
+
+📊 **[CapiCartoon!](https://github.com/devilsc0d3/capicartoon_vitrine)**  
+Un jeu vidéo en 3D isométrique avec des graphismes cartoon où le thème est le capitalisme. Crée et façonne ta ville, fais-la évoluer d'un simple lieu-dit à une véritable mégalopole !
+
+---
+
+## 🌐 Autres Projets
+🔐 **[Greeny](https://github.com/devilsc0d3/greeny)**  
+Une application SaaS pour le don d'objets, où les utilisateurs peuvent poster, contacter et recevoir des objets pour être plus éco-solidaires !
+
+✍️ N'hésite pas à explorer mes [dépôts publics](https://github.com/devilsc0d3?tab=repositories) pour voir ce sur quoi je travaille.
+
+---
+
+## 🚀 Statistiques GitHub
+
+![devilsc0d3's GitHub stats](https://github-readme-stats.vercel.app/api?username=devilsc0d3&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devilsc0d3&layout=compact&theme=radical)
+
+---
+
+## 📫 Me contacter
+
+📧 **Email** : [faureleo123@gmail.com](mailto:faureleo123@gmail.com)  
+🔗 **LinkedIn** : [linkedin.com/in/léo-fauré](https://www.linkedin.com/in/l%C3%A9o-faur%C3%A9-1477b7270/)
+
+---
+
+### ❤️ Toujours partant pour collaborer sur des projets passionnants !
 
